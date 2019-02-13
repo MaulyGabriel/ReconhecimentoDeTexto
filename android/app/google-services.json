@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "173684536927",
+    "firebase_url": "https://reconhecimentodetexto.firebaseio.com",
+    "project_id": "reconhecimentodetexto",
+    "storage_bucket": "reconhecimentodetexto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173684536927:android:47660bbe09d7feb8",
+        "android_client_info": {
+          "package_name": "com.textrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173684536927-ugvnrs69mcgs8sob33qbqd07i4i4e4rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.textrecognition",
+            "certificate_hash": "9b19b3f3c9f5d81b1b37c2efb6cb77502a828225"
+          }
+        },
+        {
+          "client_id": "173684536927-9cbjtn65thbsr9t7qiccpongp5lgmsrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1EaP1P9zgzDxbqY2HGI_OYwyo_UWntGs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173684536927-9cbjtn65thbsr9t7qiccpongp5lgmsrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
